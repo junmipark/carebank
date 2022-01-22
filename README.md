@@ -64,24 +64,24 @@ Oracle
 ---
 
 ## 참고 사진
-#### 이용하기
-![image](https://user-images.githubusercontent.com/92344242/150634599-a185ac88-5d69-475b-ab44-7365281bdb0e.png)
-![image](https://user-images.githubusercontent.com/92344242/150634625-67a2f268-ad97-4da4-aa2a-3391e4777997.png)
-![image](https://user-images.githubusercontent.com/92344242/150634646-8fddaa28-4708-41df-8816-046c77df74c4.png)
-![image](https://user-images.githubusercontent.com/92344242/150634662-d4b9fb7b-be7d-48c2-a339-bf7e2d643b41.png)
-![image](https://user-images.githubusercontent.com/92344242/150634667-34de4464-c6aa-443a-af4c-e47aa71aafa5.png)
-#### 추천받기
-![image](https://user-images.githubusercontent.com/92344242/150634677-d535f989-487c-4139-8fd0-727696b3e8dd.png)
-#### 마이페이지 > 다이어리
-![image](https://user-images.githubusercontent.com/92344242/150634689-498bd2c1-139f-4d5a-bf6e-dedc6dbf97e5.png)
-![image](https://user-images.githubusercontent.com/92344242/150634749-b6e04d0e-7e75-4734-951f-7a60c3713e8f.png)
-#### 관리자 페이지
-![image](https://user-images.githubusercontent.com/92344242/150634760-5eb1bc56-1b20-4d20-978d-19c27fa007a7.png)
-![image](https://user-images.githubusercontent.com/92344242/150634798-3dd5bfc9-576b-4539-885f-3cce93a56a54.png)
-![image](https://user-images.githubusercontent.com/92344242/150634768-ba8be0e7-0799-476d-9aef-613ee8a006b7.png)
-![image](https://user-images.githubusercontent.com/92344242/150634777-1f488667-c52a-4301-a9eb-219442cde8f9.png)
-![image](https://user-images.githubusercontent.com/92344242/150634873-2b6a61b0-de93-4b30-a6f8-641f79c9d407.png)
-![image](https://user-images.githubusercontent.com/92344242/150634938-c673043e-bca7-4b64-a7fc-fad5573d62e8.png)
+### 이용하기
+![image](https://user-images.githubusercontent.com/92344242/150634599-a185ac88-5d69-475b-ab44-7365281bdb0e.png "카테고리 별로 식단 정보 조회")
+![image](https://user-images.githubusercontent.com/92344242/150634625-67a2f268-ad97-4da4-aa2a-3391e4777997.png "식단 정보 상세조회")
+![image](https://user-images.githubusercontent.com/92344242/150634646-8fddaa28-4708-41df-8816-046c77df74c4.png "영양제 정보 상세조회")
+![image](https://user-images.githubusercontent.com/92344242/150634662-d4b9fb7b-be7d-48c2-a339-bf7e2d643b41.png "지역별 병원 정보 조회")
+![image](https://user-images.githubusercontent.com/92344242/150634667-34de4464-c6aa-443a-af4c-e47aa71aafa5.png "병원 정보 상세조회")
+### 추천받기
+![image](https://user-images.githubusercontent.com/92344242/150634677-d535f989-487c-4139-8fd0-727696b3e8dd.png "관심사에 따른 식단 정보 추천")
+### 마이페이지 > 다이어리
+![image](https://user-images.githubusercontent.com/92344242/150634689-498bd2c1-139f-4d5a-bf6e-dedc6dbf97e5.png "다이어리 페이지")
+![image](https://user-images.githubusercontent.com/92344242/150634749-b6e04d0e-7e75-4734-951f-7a60c3713e8f.png "식단 기록")
+### 관리자 페이지
+![image](https://user-images.githubusercontent.com/92344242/150634760-5eb1bc56-1b20-4d20-978d-19c27fa007a7.png "식단 정보 조회")
+![image](https://user-images.githubusercontent.com/92344242/150634798-3dd5bfc9-576b-4539-885f-3cce93a56a54.png "검색어에 따른 식단 정보 조회")
+![image](https://user-images.githubusercontent.com/92344242/150634768-ba8be0e7-0799-476d-9aef-613ee8a006b7.png "식단 정보 상세조회")
+![image](https://user-images.githubusercontent.com/92344242/150634777-1f488667-c52a-4301-a9eb-219442cde8f9.png "식단 정보 수정")
+![image](https://user-images.githubusercontent.com/92344242/150634873-2b6a61b0-de93-4b30-a6f8-641f79c9d407.png "회원 정보 관리")
+![image](https://user-images.githubusercontent.com/92344242/150634938-c673043e-bca7-4b64-a7fc-fad5573d62e8.png "회원 통계 관리")
 
 ---
 
