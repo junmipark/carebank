@@ -124,7 +124,5 @@ Oracle
 *회원 통계 관리*
 <br>
 
----
-
 ## 발표 자료
 https://docs.google.com/presentation/d/1ilA0S7D6fzqZCHDzvNPNNySNUXBsmB7b/edit?usp=sharing&ouid=109431752741517625780&rtpof=true&sd=true
