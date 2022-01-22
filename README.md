@@ -14,7 +14,7 @@
 ### Front-End 
 HTML/CSS, javascript, jQuery
 ### Back-End 
-Java (Servlet), AWS(S3, RDS)
+Java (Spring), AWS(S3, RDS)
 ### Database 
 Oracle
 
