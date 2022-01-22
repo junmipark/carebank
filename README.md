@@ -120,7 +120,7 @@ Oracle
 *회원 정보 관리*
 <br>
 
-![회원 통계 관리](https://user-images.githubusercontent.com/92344242/150634938-c673043e-bca7-4b64-a7fc-fad5573d62e8.png
+![회원 통계 관리](https://user-images.githubusercontent.com/92344242/150634938-c673043e-bca7-4b64-a7fc-fad5573d62e8.png)
 *회원 통계 관리*
 <br>
 
