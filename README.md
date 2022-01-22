@@ -1,5 +1,7 @@
 # CareBank
 
+![image](https://user-images.githubusercontent.com/92344242/150625858-20491d30-05e0-414e-903e-3d30ce956061.png)
+
 ## 주제
 맞춤형 건강관리 사이트
 
