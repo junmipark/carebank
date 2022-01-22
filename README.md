@@ -81,7 +81,7 @@ Oracle
 ![image](https://user-images.githubusercontent.com/92344242/150634777-1f488667-c52a-4301-a9eb-219442cde8f9.png)
 <br>
 ![image](https://user-images.githubusercontent.com/92344242/150634873-2b6a61b0-de93-4b30-a6f8-641f79c9d407.png)
-개인정보 보호를 위해 일부 정보는 모자이크 처리하였습니다.
+개인정보 보호를 위해 일부 정보는 모자이크 처리하였습니다.<br>
 <br>
 ![image](https://user-images.githubusercontent.com/92344242/150634938-c673043e-bca7-4b64-a7fc-fad5573d62e8.png)
 <br>
