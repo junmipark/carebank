@@ -45,6 +45,8 @@ Oracle
 - 식단 기록 기능
   - 회원이 날짜(기본 설정은 현재 날짜) 및 식사 시간(아침/점심/저녁)과 함께 식단을 기록할 수 있다.
   - 식단 기록 시 사진을 업로드할 수 있으며 Google Teachable Machine API와 연계되어 학습된 정보와 가장 유사한 식단의 이름과 영양소 정보를 제공한다.
+    - Google Teachable Machine에서 식단 클래스 인스턴스를 작성하고 이미지를 학습
+      ![Google Teachable Machine에서 식단 클래스 인스턴스를 작성하고 이미지를 학습](https://user-images.githubusercontent.com/92344242/150697298-74ce5fc1-6052-43b0-bfad-e2c29df23086.png)
   - 인식된 정보가 부정확한 경우 사용자로부터 직접 입력을 받을 수 있다. <br>
 
 ### 관리자 페이지 - 사이트 DB 관리
